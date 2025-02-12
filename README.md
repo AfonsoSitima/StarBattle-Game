@@ -13,7 +13,7 @@ The real challenge of this project was the programming language we were required
 
 To start you call `resolve` giving it the first argument -> a BattleStar Board.
 
-You can find some board example in [Puzzels](StarBattle-Game/puzzles.pl)
+You can find some board example in [Puzzels](puzzles.pl)
 
 
 
