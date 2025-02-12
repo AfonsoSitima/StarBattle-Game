@@ -9,7 +9,9 @@ The objective is to place two stars in each row, each column, and each region wh
 Whenever it is determined that a star cannot be placed in a given position, a dot should be inserted in that position.
 
 ## Objective/Gameplay
-The real challenge of this project was the programming language we were required to use—Prolog. At first, it felt a bit unfamiliar, but by the end, everything came together smoothly, and I believe I did a great job. Unlike my previous game projects, where I focused on building the game itself, my goal for this one was to develop a program capable of solving a simple BattleStars board.
+The real challenge of this project was the programming language we were required to use—Prolog. At first, it felt a bit unfamiliar, but by the end, everything came together smoothly, and I believe I did a great job.
+
+Unlike my previous game projects, where I focused on building the game itself, my goal for this one was to develop a program capable of solving a simple BattleStars board.
 
 To start you call `resolve` giving it the first argument -> a BattleStar Board.
 
