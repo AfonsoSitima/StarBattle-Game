@@ -1,11 +1,7 @@
-% lp24 - ist1114018 - projecto 
-:- use_module(library(clpfd)). % para poder usar transpose/2
+% :- use_module(library(clpfd)).
 :- set_prolog_flag(answer_write_options,[max_depth(0)]). % ver listas completas
-:- [puzzles]. % Ficheiro dado. A avaliação terá mais puzzles.
-:- [codigoAuxiliar]. % Ficheiro dado. Não alterar.
-% Atenção: nao deves copiar nunca os puzzles para o teu ficheiro de código
-% Nao remover nem modificar as linhas anteriores. Obrigado.
-% Segue-se o código
+:- [puzzles]. % Ficheiro dado.
+:- [codigoAuxiliar].
 %%%%%%%%%%%%
 
 % mesmoObj(X,Y) é verdade caso X e Y representarem o mesmo objeto (Estrela, Ponto ou Variável).
